@@ -1,0 +1,38 @@
+CURRICULUM VITAE
+
+Name: Megha Solanki  
+Degree: B.Tech in Computer Science (AI & ML)  
+Completion: 2026  
+Email: yourname@example.com  
+Phone: +91-XXXXXXXXXX  
+Location: [Your City, State]  
+
+ABOUT ME  
+Motivated Computer Science student specializing in Artificial Intelligence and Machine Learning.  
+Passionate about building impactful projects, solving complex problems, and continuously learning new technologies.  
+
+SKILLS  
+- Programming: Python, Java, C++  
+- Web: HTML, CSS, JavaScript  
+- AI/ML: TensorFlow, PyTorch, OpenCV  
+- Tools: Git, VS Code, Google Colab  
+
+PROJECTS  
+1. Image Colorization using Deep Learning  
+   • Built a U-Net model for black & white to color image transformation.  
+   • Improved colorization quality using LAB space.  
+   • Tools: Python, TensorFlow, OpenCV  
+
+2. Book Recommendation System  
+   • Developed ML-based system recommending books using collaborative filtering.  
+   • Tools: Python, Scikit-learn, Pandas  
+
+EDUCATION  
+- B.Tech CSE (AI & ML) — [Your College Name] (2022–2026)  
+- Senior Secondary (Class 12) — [School Name], [Year]  
+
+CONTACT  
+Email: yourname@example.com  
+Phone: +91-XXXXXXXXXX  
+GitHub: https://github.com/YourGitHubID  
+LinkedIn: https://linkedin.com/in/YourProfile  

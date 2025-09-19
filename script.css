@@ -1,0 +1,15 @@
+function sendEmail(e){
+  e.preventDefault();
+  const name=document.getElementById('name').value.trim();
+  const email=document.getElementById('email').value.trim();
+  const message=document.getElementById('message').value.trim();
+  if(name && email && message){
+    const subject=encodeURIComponent('Portfolio message from '+name);
+    const body=encodeURIComponent('Name: '+name+'\nEmail: '+email+'\n\n'+message);
+    window.location.href=`mailto:megha@example.com?subject=${subject}&body=${body}`;
+    alert('Email client opened. You can send your message now.');
+    e.target.reset();
+  } else {
+    alert('Please fill in all fields.');
+  }
+}
